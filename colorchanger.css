@@ -1,0 +1,12 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    padding: 16px;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: aqua;
+}
